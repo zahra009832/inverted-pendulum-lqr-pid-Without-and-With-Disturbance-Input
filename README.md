@@ -1,2 +1,6 @@
 # inverted-pendulum-lqr-pid-Without-and-With-Disturbance-Input
-Simulation of an Optimal control of a nonlinear inverted pendulum: PID vs LQR, with disturbance. Includes nonlinear plant, upright linearization, demo script, and simulink files.
+
+Reproducible simulation of a **nonlinear cart–pendulum** system comparing **PID** and **LQR** control, with and without a disturbance. Includes a nonlinear plant model, upright linearization, MATLAB script, and Simulink files.
+
+For model background and equations, see **1.pdf** (this repo’s copy of `1.pdf`).
+
